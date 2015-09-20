@@ -45,4 +45,368 @@ background: #0078d8;
 
 input,img {vertical-align:middle;}
 
+#mid {
 
+    height: 360px;
+
+    position: relative;
+    top: 40px;
+}
+
+#sub-mid-1 {
+    height: 360px;
+    width: 220px;
+
+    position: relative;
+    left: 580px;
+    border-radius:5px;
+}
+
+#pic1 {
+    ;
+    width: 64px;
+    height: 64px;
+}
+
+#pic1 img{
+    border-radius:50%;
+}
+
+#pic2 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic2 img{
+    border-radius:50%;
+}
+
+#pic3 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic3 img{
+    border-radius:50%;
+}
+
+
+#pic4 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic4 img{
+    border-radius:50%;
+}
+
+#pic5 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic5 img{
+    border-radius:50%;
+}
+
+#pic6 {
+
+    width: 64px;
+    height: 64px;
+    margin:0 0 0 10px;
+    position: relative;
+    left: 64px;
+    bottom: 360px;
+}
+
+#pic6 img{
+    border-radius:50%;
+}
+
+#pic7 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic7 img{
+    border-radius:50%;
+}
+
+#pic8 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic8 img{
+    border-radius:50%;
+}
+
+#pic9 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic9 img{
+    border-radius:50%;
+}
+
+#pic10 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 0;
+}
+
+#pic10 img{
+    border-radius:50%;
+}
+
+#pic11 {
+
+    width: 64px;
+    height: 64px;
+    margin: 0 0 0 10px;
+    position: relative;
+    left: 64px;
+    bottom: 360px;
+}
+
+#pic11 img{
+    border-radius:50%;
+}
+
+#pic12 {
+
+    width: 64px;
+    height: 64px;
+    margin: 0 0 0 10px;
+    position: relative;
+    left: 64px;
+    bottom: 350px;
+}
+
+#pic12 img{
+    border-radius:50%;
+}
+
+#pic13 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 10px;
+    position: relative;
+    left: 64px;
+    bottom: 350px;
+}
+
+#pic13 img{
+    border-radius:50%;
+}
+
+#pic14 {
+
+    width: 64px;
+    height: 64px;
+    margin: 10px 0 0 10px;
+    position: relative;
+    left: 64px;
+    bottom: 350px;
+}
+
+#pic14 img{
+    border-radius:50%;
+}
+
+#pic15 {
+
+    width: 64px;
+    height: 64px;
+    margin: 0 0 0 10px;
+    position: relative;
+    left: 64px;
+    bottom: 340px;
+}
+
+#pic15 img{
+    border-radius:50%;
+}
+
+#sub-mid-2-c {
+
+    width: 500px;
+    height: 356px;
+    background: white;
+    position: relative;
+    left: 250px;
+    bottom: 422px;
+    border-radius: 5px;
+}
+
+#first_part{
+
+    width: 400px;
+    height: 100px;
+    border-bottom:1px solid #F0F0F0;
+    position: relative;
+    left: 40px;
+}
+
+#old-man {
+
+    width: 46px;
+    height: 46px;
+    margin:10px;
+    padding: 20px;
+    position: relative;
+    right: 30px;
+
+}
+
+#old-man img{
+    border-radius:50%;
+}
+
+#character-1{
+    width: 300px;
+    height: 60px;
+
+    position: relative;
+    left: 60px;
+    bottom: 80px;
+    color: #7491A8;
+}
+
+#character-2{
+
+
+    width: 45px;
+    height: 25px;
+    margin: 5px 5px 5px 40px;
+}
+
+#chara-3{
+
+
+    width: 320px;
+    height: 25px;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    color: #7491A8;
+}
+
+#chara-3-1{
+
+    width: 45px;
+    height: 25px;
+    position: relative;
+    left: 40px;
+    bottom: 20px;
+
+}
+
+#chara-3-2{
+
+
+    width: 320px;
+    height: 25px;
+    color: #7491A8;
+   position: relative;
+   left: 100px;
+   bottom: 45px;}
+
+
+#chara-4{
+
+    width: 45px;
+    height: 25px;
+    position: relative;
+    left: 40px;
+    bottom: 35px;
+}
+
+#chara-4-2{
+    width: 320px;
+    height: 25px;
+    color: #7491A8;
+
+    position: relative;
+    left: 100px;
+    bottom: 55px;
+
+}
+
+#chara-5{
+
+    width: 45px;
+    height: 25px;
+    position: relative;
+    left: 40px;
+    bottom: 50px;
+}
+
+#chara-5-2{
+
+    width: 400px;
+    height: 50px;
+    color: #7491A8;
+    position: relative;
+    left: 100px;
+    bottom: 75px;
+
+}
+
+#chara-6 {
+
+    width: 45px;
+    height: 25px;
+    position: relative;
+    left: 40px;
+    bottom: 70px;
+
+}
+
+#chara-6-2{
+
+    width: 320px;
+    height: 25px;
+    color: #7491A8;
+
+    position: relative;
+    left: 100px;
+    bottom: 95px;
+
+
+}
+
+#footer{
+
+    height: 360px;
+    position: relative;
+    top: 40px;
+}
+
+#chara-footer{
+
+    width: 311px;
+    height: 40px;
+    position: relative;
+    left: 580px;
+    margin: 20px 0 0 0;
+    color: #aebdc9;
+    font-size: 12.5px;
+}
